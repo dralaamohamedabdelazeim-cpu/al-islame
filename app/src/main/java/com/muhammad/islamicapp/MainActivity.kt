@@ -3,7 +3,6 @@ package com.muhammad.islamicapp
 import android.os.Bundle
 import androidx.compose.foundation.BorderStroke
 import androidx.compose.ui.platform.LocalContext
-import androidx.compose.ui.text.style.TextAlign
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
